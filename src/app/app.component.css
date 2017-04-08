@@ -1,0 +1,8 @@
+.titleBar {
+  position: fixed!important;
+  background: #0076be;
+  color: white;
+  text-align: center;
+  height: 50px;
+  line-height: 50px;
+}
