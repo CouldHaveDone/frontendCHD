@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'Could Have Done';
 
   ngOnInit() {
-    alert("Je kad nu al de eerste 10 seconden van Zanger Rinus - Wil met Sharon zweven in een luchtballen kunnen horen!!!");
+    //alert("Je kad nu al de eerste 10 seconden van Zanger Rinus - Wil met Sharon zweven in een luchtballen kunnen horen!!!");
   }
 }
