@@ -1,8 +1,20 @@
-.titleBar {
+.title-bar {
   position: fixed!important;
   background: #0076be;
   color: white;
   text-align: center;
   height: auto;
   line-height: 50px;
+}
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.counter {
+	text-align: left;
 }
